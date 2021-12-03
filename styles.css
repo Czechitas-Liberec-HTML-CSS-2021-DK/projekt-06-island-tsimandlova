@@ -103,7 +103,7 @@ li a {
 }
 
 .text {
-  margin: 1.2rem;
+  margin: 2rem;
 }
 
 .image {
@@ -295,7 +295,7 @@ footer {
     right: 0; 
     margin-left: auto; 
     margin-right: auto;
-    margin-top: -30px; 
+    margin-top: -45px; 
   }
 
   .shadow {
@@ -310,11 +310,15 @@ footer {
   }
 
   #signature {
-    padding-bottom: 1.8rem;
+    padding-bottom: 3.5rem;
   }
 
   .divided {
     display: flex;
+  }
+
+  .divided .text {
+    margin: 1.1rem 2rem 2rem;
   }
 
     /* <section> start */
@@ -328,10 +332,6 @@ footer {
     margin-right: 0;
   }
   /* <section> end */
-
-  .text {
-    padding: 2rem;
-  }
 
   nav ul {
     white-space: nowrap;
